@@ -1,2 +1,4 @@
 develop for checking attentinon data in little term
-xmu
+\n xmu
+\n python 2.7
+\n run _init_.py
